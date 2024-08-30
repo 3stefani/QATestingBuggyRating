@@ -7,7 +7,7 @@ The test cases are executed and documented in the Excel file.
 Creation of manual tests.
 Creation of automated tests.
 
-- When executing manual tests, bugs are found. A report is prepared with the details of each bug. (indicate what document it is)
+- When executing manual tests, bugs are found. A report is prepared with the details of each bug. 
 
 - After executing all the test cases defined in the user stories, we are going to perform 
 some exploratory tests, which are not defined in the acceptance criteria of the user stories.
