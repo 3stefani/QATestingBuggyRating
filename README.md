@@ -12,3 +12,5 @@ Creation of automated tests.
 - After executing all the test cases defined in the user stories, we are going to perform 
 some exploratory tests, which are not defined in the acceptance criteria of the user stories.
 We just freely browse the web application to see what errors we find.
+
+- Test cases are defined in excel and in Jira. Also bug reports.
