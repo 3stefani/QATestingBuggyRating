@@ -16,6 +16,6 @@ We just freely browse the web application to see what errors we find.
 - Test cases are defined in excel and in Jira. Also bug reports.
 
 - I use Testrail as a test case manager. Where I add the test cases and execute them.
-- 
+  
 
 ![Testrail Test Run 1sept24](https://github.com/user-attachments/assets/109a819c-b056-4273-a259-84987eb776c4)
