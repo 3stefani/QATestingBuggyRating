@@ -19,3 +19,10 @@ We just freely browse the web application to see what errors we find.
   
 
 ![Testrail Test Run 1sept24](https://github.com/user-attachments/assets/109a819c-b056-4273-a259-84987eb776c4)
+
+# Automated Testing
+Automated testing is conducted using tools such as Selenium IDE and Cypress.
+
+# Selenium IDE
+The desired test case is recorded using Selenium IDE.
+After recording, the necessary changes are made to the code to allow for multiple executions.
